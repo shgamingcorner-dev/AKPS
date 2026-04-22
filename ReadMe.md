@@ -1,1 +1,2 @@
-# Introduction to GITHUB and GIT
+# Introduction to GAY AND GAYHUB
+
