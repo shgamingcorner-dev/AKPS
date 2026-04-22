@@ -1,1 +1,1 @@
-print("QB IS HIM")
+print("QB IS FRIENDS WITH SONGHENG")
