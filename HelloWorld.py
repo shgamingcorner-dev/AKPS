@@ -1,1 +1,1 @@
-print("QB IS A QT")
+print("QB IS HIM")
